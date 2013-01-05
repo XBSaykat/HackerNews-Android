@@ -1,9 +1,0 @@
-# view AndroidManifest.xml #generated:18
--keep class com.whoisryannystrom.hackernews.FrontPageActivity { <init>(...); }
-
-# view AndroidManifest.xml #generated:28
--keep class com.whoisryannystrom.hackernews.HackerNewsService { <init>(...); }
-
-# view AndroidManifest.xml #generated:31
--keep class com.whoisryannystrom.hackernews.WebViewActivity { <init>(...); }
-
